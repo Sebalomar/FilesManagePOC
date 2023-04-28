@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "imN+UXNooC5ObUKijm8JK6ZKJT1KK5y8TRobnWTPAAWWSAHANpaJd0vKrcCU4oLnKiHn1HgYfvlLDbD9DX4nTQ==",
+  "success": true,
+  "projectFilePath": "/Users/sebastianalomar/Documents/Programación/FilesManagerPOC/FilesManagerPOC/FilesManagerPOC.csproj",
+  "expectedPackageFiles": [
+    "/Users/sebastianalomar/.nuget/packages/awssdk.core/3.7.106.26/awssdk.core.3.7.106.26.nupkg.sha512",
+    "/Users/sebastianalomar/.nuget/packages/awssdk.s3/3.7.104.4/awssdk.s3.3.7.104.4.nupkg.sha512",
+    "/Users/sebastianalomar/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/sebastianalomar/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/sebastianalomar/.nuget/packages/sixlabors.imagesharp/3.0.1/sixlabors.imagesharp.3.0.1.nupkg.sha512",
+    "/Users/sebastianalomar/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/sebastianalomar/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/sebastianalomar/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/sebastianalomar/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

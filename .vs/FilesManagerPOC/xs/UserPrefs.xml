@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{EBCBDD24-7EC3-45D2-94C5-4DC53773A900}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="FilesManagerPOC/Program.cs">
+    <Files>
+      <File FileName="FilesManagerPOC/Program.cs" Line="90" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FilesManagerPOC" expanded="True">
+            <Node name="FilesManagerPOC" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FilesManagerPOC PreferredExecutionTarget="/Applications/Brave Browser.app" />
+</Properties>
